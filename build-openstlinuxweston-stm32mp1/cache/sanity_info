@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/tainguyen/STM32MPU_workspace/build-openstlinuxweston-stm32mp1/tmp-glibc
+SSTATE_DIR /home/tainguyen/STM32MPU_workspace/build-openstlinuxweston-stm32mp1/sstate-cache
+NATIVELSBSTRING ubuntu-22.04
